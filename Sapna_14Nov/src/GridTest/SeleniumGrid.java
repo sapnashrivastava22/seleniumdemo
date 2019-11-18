@@ -12,6 +12,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class SeleniumGrid {
 
+	//Adding Comments - for selenium grid
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		DesiredCapabilities dc = new DesiredCapabilities();
@@ -45,3 +46,5 @@ public class SeleniumGrid {
 	}
 
 }
+
+
